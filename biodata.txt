@@ -1,5 +1,5 @@
 Isi Biodata di bawah ini!
 
-Nama Lengkap : 
-Asal Domisili: 
-Email : 
+Nama Lengkap : isi dengan nama lengkap
+Asal Domisili: isi dengan asal domisili
+Email : isi dengan email
